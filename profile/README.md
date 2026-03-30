@@ -5,3 +5,4 @@
 <img src="img/memory.jpg" align='center' width='300'>
 
 <img src="img/chif-undefend.jpg" align='center' width='300'>
+<img src="img/alngliski-prof.jpg" align='center' width='300'>
